@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menú de Crafting</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+</head>
+<body>
+    <div id="particles-js"></div>
+
+    <header>
+        <h1>Todos los Crafteos para The Forest</h1>
+    </header>
+
+    <!-- Contenedor de búsqueda -->
+    <div class="search-container">
+        <!-- Barra de búsqueda por texto -->
+        <input type="text" id="search-input" placeholder="Buscar por nombre">
+
+        <!-- Barra de búsqueda por categoría -->
+        <select id="category-select">
+            <option value="">Todas las categorías</option>
+        </select>
+    </div>
+    
+    <div id="caja_donaciones">
+        <a href="https://www.paypal.me/JohnnyGar23"><img id="Paypal" src="/img/NuevaPaypal.png"></a>
+
+        <a id="quitar_subrayado" href="https://www.paypal.me/JohnnyGar23">
+        <p class="txt_donaciones">Apóyame con una donación para mantener este sitio disponible.</p></a>
+    </div>   
+    <!-- Contenedor de las cajas de crafting -->
+    <div id="crafting-list"></div>
+
+    <!-- Modal -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="modal-images"></div>
+        </div>
+    </div>
+
+    <p id="texto_inferior">Si ves algún objeto que esté mal crafteado, tenga una imagen o descripción incorrecta, o haga falta algún objeto o nuevo crafteo por añadir, puedes escribirme a mi correo electrónico: zuleroenprogreso@gmail.com.</p>
+
+    <script src="script.js"></script>
+    <script src="particles-config.js"></script> <!-- Configuración de Particles.js -->
+</body>
+</html>

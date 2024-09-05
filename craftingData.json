@@ -1,0 +1,669 @@
+[
+    {
+        "name": "Garrote fabricado",
+        "category": "Armas/Herramientas",
+        "image": "img/Garrote fabricado.png",
+        "materials": [
+            {
+                "name": "1 Craneo",
+                "image": "img/craneo.png"
+            },
+            {   
+                "name": "1 Palo",
+                "image": "img/palo.png"
+            }
+        ]
+    },
+    {
+        "name": "Tirachinas/resortera",
+        "category": "Armas/Herramientas",
+        "image": "img/Tirachinas.png",
+        "materials": [
+            {
+                "name": "1 Palo",
+                "image": "img/palo.png"
+            },
+            {
+                "name": "1 Tela",
+                "image": "img/tela.png"
+            },
+            {
+                "name": "1 Cinta",
+                "image": "img/cinta.png"
+            }
+        ]
+    },
+    {
+        "name": "Hacha crafteada",
+        "category": "Armas/Herramientas",
+        "image": "img/hacha fabricada.png",
+        "materials": [
+            {
+                "name": "1 Palo",
+                "image": "img/palo.png"
+            },
+            {
+                "name": "1 Cuerda",
+                "image": "img/CuerdaMateriales.png"
+            },
+            {
+                "name": "1 Roca",
+                "image": "img/roca.png"
+            }
+        ]
+    },
+    {
+        "name": "Arco fabricado",
+        "category": "Armas/Herramientas",
+        "image": "img/Arco fabricado.png",
+        "materials": [
+            {
+                "name": "1 Palo",
+                "image": "img/palo.png"
+            },
+            {
+                "name": "1 Tela",
+                "image": "img/tela.png"
+            },
+            {
+                "name": "1 Cuerda",
+                "image": "img/CuerdaMateriales.png"
+            }
+        ]
+    },
+    {
+        "name": "Antorcha",
+        "category": "Armas/Herramientas",
+        "image": "img/Antorcha.png",
+        "materials": [
+            {
+                "name": "1 Palo mejorado",
+                "image": "img/palo.png"
+            },
+            {
+                "name": "1 Tela",
+                "image": "img/tela.png"
+            }
+        ]
+    },
+    {
+        "name": "Lanza debil",
+        "category": "Armas/Herramientas",
+        "image": "img/Lanza debil.png",
+        "materials": [
+            {
+                "name": "2 Palos",
+                "image": "img/palo.png"
+            }
+        ]
+    },
+    {
+        "name": "Lanza mejorada",
+        "category": "Armas/Herramientas",
+        "image": "img/Lanza mejorada.png",
+        "materials": [
+            {
+                "name": "1 Lanza debil",
+                "image": "img/Lanza debil.png"
+            },
+            {
+                "name": "2 Telas",
+                "image": "img/tela.png"
+            },
+            {
+                "name": "3 Huesos",
+                "image": "img/hueso.png"
+            }
+        ]
+    },
+    {
+        "name": "Lanza incendiaria",
+        "category": "Armas/Herramientas",
+        "image": "img/Lanza de fuergo.png",
+        "materials": [
+            {
+                "name": "1 Lanza mejorada",
+                "image": "img/Lanza mejorada.png"
+            },
+            {
+                "name": "1 Tela",
+                "image": "img/tela.png"
+            },
+            {
+                "name": "1 Alcohol",
+                "image": "img/alcohol.png"
+            }
+        ]
+    },
+    {
+        "name": "Martillo de reparacion",
+        "category": "Armas/Herramientas",
+        "image": "img/Martillo de reparacion.png",
+        "materials": [
+            {
+                "name": "2 Palos",
+                "image": "img/palo.png"
+            },
+            {
+                "name": "1 Roca",
+                "image": "img/roca.png"
+            },
+            {
+                "name": "2 Telas",
+                "image": "img/tela.png"
+            },
+            {
+                "name": "10 Savias",
+                "image": "img/savia.png"
+            }
+        ]
+    },
+    
+
+    {
+        "name": "Armadura sigilosa",
+        "category": "Armaduras/Atuendos",
+        "image": "img/Armadura sigilosa.png",
+        "materials": [
+            {
+                "name": "1 Piel  de lagarto",
+                "image": "img/Piel lagarto.png"
+            },
+            {
+                "name": "15 Hojas",
+                "image": "img/hojas.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Armadura de hueso",
+        "category": "Armaduras/Atuendos",
+        "image": "img/armadura de hueso.png",
+        "materials": [
+            {
+                "name": "6 Huesos",
+                "image": "img/hueso.png"
+            },
+            {
+                "name": "3 Telas",
+                "image": "img/tela.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Zapatos de nieve",
+        "category": "Armaduras/Atuendos",
+        "image": "img/zapatos de nieve.png",
+        "materials": [
+            {
+                "name": "5 Palos",
+                "image": "img/palo.png"
+            },
+            {
+                "name": "2 Cuerdas",
+                "image": "img/CuerdaMateriales.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Zapatos de piel de conejo",
+        "category": "Armaduras/Atuendos",
+        "image": "img/botas piel de conejo.png",
+        "materials": [
+            {
+                "name": "3 Pieles de conejo",
+                "image": "img/Piel de conejo.png"
+            },
+            {
+                "name": "2 Cuerdas",
+                "image": "img/CuerdaMateriales.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Traje de calor",
+        "category": "Armaduras/Atuendos",
+        "image": "img/Traje de calor.png",
+        "materials": [
+            {
+                "name": "1 Piel de conejo",
+                "image": "img/Piel de conejo.png"
+            },
+            {
+                "name": "1 Piel de mapache",
+                "image": "img/piel de mapache.png"
+            },
+            {
+                "name": "4 Pieles de jabali",
+                "image": "img/piel de jabali.png"
+            },
+            {
+                "name": "6 Pieles de ciervo",
+                "image": "img/piel de ciervo.png"
+            },
+            {
+                "name": "2 Telas",
+                "image": "img/tela.png"
+            },
+            {
+                "name": "2 Cuerdas",
+                "image": "img/CuerdaMateriales.png"
+            }
+        ]
+    }
+    ,
+
+    {
+        "name": "Coctel molotov",
+        "category": "Bombas/Molotov",
+        "image": "img/Molotov.png",
+        "materials": [
+            {
+                "name": "1 Alcohol",
+                "image": "img/alcohol.png"
+            },
+            {
+                "name": "1 Tela",
+                "image": "img/tela.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Bomba",
+        "category": "Bombas/Molotov",
+        "image": "img/Bomba.png",
+        "materials": [
+            {
+                "name": "1 Placa base",
+                "image": "img/placa base.png"
+            },
+            {
+                "name": "1 Moneda",
+                "image": "img/monedasa.png"
+            },
+            {
+                "name": "1 Reloj",
+                "image": "img/reloj.png"
+            },
+            {
+                "name": "1 Alcohol",
+                "image": "img/alcohol.png"
+            },
+            {
+                "name": "1 Cinta",
+                "image": "img/cinta.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Bomba cabeza",
+        "category": "Bombas/Molotov",
+        "image": "img/Bomba cabeza.png",
+        "materials": [
+            {
+                "name": "1 Bomba",
+                "image": "img/Bomba.png"
+            },
+            {
+                "name": "1 Cabeza",
+                "image": "img/Cabeza.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Bomba pegadiza",
+        "category": "Bombas/Molotov",
+        "image": "img/Bomba.png",
+        "materials": [
+            {
+                "name": "1 Bomba",
+                "image": "img/Bomba.png"
+            },
+            {
+                "name": "1 Savia",
+                "image": "img/savia.png"
+            }
+        ]
+    },
+    {
+        "name": "Cantimplora",
+        "category": "Bolsas/Expansion de mochila",
+        "image": "img/imagen-noencontrada.jpg",
+        "materials": [
+            {
+                "name": "2 Pieles de ciervo",
+                "image": "img/piel de ciervo.png"
+            },
+            {
+                "name": "1 Cuerda",
+                "image": "img/CuerdaMateriales.png"
+            }
+        ]
+    },
+    {
+        "name": "Bolsa de palos",
+        "category": "Bolsas/Expansion de mochila",
+        "image": "img/bolsa de palos.png",
+        "materials": [
+            {
+                "name": "1 Piel de conejo",
+                "image": "img/Piel de conejo.png"
+            },
+            {
+                "name": "2 Cuerdas",
+                "image": "img/CuerdaMateriales.png"
+            },
+            {
+                "name": "3 Telas",
+                "image": "img/tela.png"
+            }
+        ]
+    },
+    {
+        "name": "Bolsa de piedras",
+        "category": "Bolsas/Expansion de mochila",
+        "image": "img/Bolsa de piedras.png",
+        "materials": [
+            {
+                "name": "1 Piel de jabali",
+                "image": "img/piel de jabali.png"
+            },
+            {
+                "name": "3 Cuerdas",
+                "image": "img/CuerdaMateriales.png"
+            },
+            {
+                "name": "1 Tela",
+                "image": "img/tela.png"
+            }
+        ]
+    },
+    {
+        "name": "Bolsa de piedritas",
+        "category": "Bolsas/Expansion de mochila",
+        "image": "img/bolsa de piedritas.png",
+        "materials": [
+            {
+                "name": "1 Piel de conejo",
+                "image": "img/Piel de conejo.png"
+            },
+            {
+                "name": "1 Cuerda",
+                "image": "img/CuerdaMateriales.png"
+            }
+        ]
+    },
+    {
+        "name": "Carcaj de flechas",
+        "category": "Bolsas/Expansion de mochila",
+        "image": "img/Carcaj de flechas.png",
+        "materials": [
+            {
+                "name": "3 Pieles de conejo",
+                "image": "img/Piel de conejo.png"
+            },
+            {
+                "name": "1 Cuerda",
+                "image": "img/CuerdaMateriales.png"
+            }
+        ]
+    },
+    {
+        "name": "Bolsa de lanzas",
+        "category": "Bolsas/Expansion de mochila",
+        "image": "img/Bolsa de lanzas.png",
+        "materials": [
+            {
+                "name": "2 Pieles de jabali",
+                "image": "img/piel de jabali.png"
+            },
+            {
+                "name": "2 Pieles de cuervo",
+                "image": "img/piel de ciervo.png"
+            },
+            {
+                "name": "2 Telas",
+                "image": "img/tela.png"
+            },
+            {
+                "name": "3 Cuerdas",
+                "image": "img/CuerdaMateriales.png"
+            }
+        ]
+    },
+    
+    {
+        "name": "Mejora de velocidad",
+        "category": "Mejora de armas",
+        "image": "img/theforest.jpg",
+        "materials": [
+            {
+                "name": "Arma a mejorar",
+                "image": "img/theforest.jpg"
+            },
+            {
+                "name": "1 Pluma",
+                "image": "img/plumas.png"
+            },
+            {
+                "name": "1 Savia",
+                "image": "img/savia.png"
+            }
+        ]
+    },
+    
+    {
+        "name": "Mejora de daño",
+        "category": "Mejora de armas",
+        "image": "img/theforest.jpg",
+        "materials": [
+            {
+                "name": "Arma a mejorar",
+                "image": "img/theforest.jpg"
+            },
+            {
+                "name": "1 Diente",
+                "image": "img/DIENTE.png"
+            },
+            {
+                "name": "1 Savia",
+                "image": "img/savia.png"
+            }
+        ]
+    },
+    
+    {
+        "name": "Mejora de fuego",
+        "category": "Mejora de armas",
+        "image": "img/theforest.jpg",
+        "materials": [
+            {
+                "name": "Arma a mejorar",
+                "image": "img/theforest.jpg"
+            },
+            {
+                "name": "1 Tela",
+                "image": "img/tela.png"
+            }
+        ]
+    },
+    
+    {
+        "name": "Mejora de veneno",
+        "category": "Mejora de armas",
+        "image": "img/theforest.jpg",
+        "materials": [
+            {
+                "name": "Arma a mejorar",
+                "image": "img/theforest.jpg"
+            },
+            {
+                "name": "1 Seta de Amanita o Olivo",
+                "image": "img/SETA DE AMANITA.png"
+            }
+        ]
+    },
+    
+
+    {
+        "name": "Mezcla curativa",
+        "category": "Otros crafteos/Medicinas",
+        "image": "img/MEZCLA CURATIVA.png",
+        "materials": [
+            {
+                "name": "1 Aloe",
+                "image": "img/aloe.png"
+            },
+            {
+                "name": "1 Calendula",
+                "image": "img/calendula.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Mezcla curativa V2",
+        "category": "Otros crafteos/Medicinas",
+        "image": "img/MEZCLA CURATIVA.png",
+        "materials": [
+            {
+                "name": "1 Aloe",
+                "image": "img/aloe.png"
+            },
+            {
+                "name": "1 Calendula",
+                "image": "img/calendula.png"
+            },
+            {
+                "name": "1 equinacea",
+                "image": "img/equinacea.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Mezcla energetica",
+        "category": "Otros crafteos/Medicinas",
+        "image": "img/mezcla energetica}.png",
+        "materials": [
+            {
+                "name": "1 Achicoria",
+                "image": "img/achicoria.png"
+            },
+            {
+                "name": "1 equinacea",
+                "image": "img/equinacea.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Mezcla energetica V2",
+        "category": "Otros crafteos/Medicinas",
+        "image": "img/mezcla energetica}.png",
+        "materials": [
+            {
+                "name": "1 Achicoria",
+                "image": "img/achicoria.png"
+            },
+            {
+                "name": "1 equinacea",
+                "image": "img/equinacea.png"
+            },
+            {
+                "name": "1 Aloe",
+                "image": "img/aloe.png"
+            }
+        ]
+    },
+    
+    {
+        "name": "Cuerda",
+        "category": "Otros crafteos/Medicinas",
+        "image": "img/CuerdaMateriales.png",
+        "materials": [
+            {
+                "name": "7 Telas",
+                "image": "img/tela.png"
+            }
+        ]
+    },
+    
+    {
+        "name": "Flechas basicas",
+        "category": "Tipos De Flechas",
+        "image": "img/Flechas basicas.png",
+        "materials": [
+            {
+                "name": "1 palo ",
+                "image": "img/palo.png"
+            },
+            {
+                "name": "5 plumas",
+                "image": "img/plumas.png"
+            }
+        ]
+    },
+    {
+        "name": "Flechas de hueso",
+        "category": "Tipos De Flechas",
+        "image": "img/Flechas de hueso.png",
+        "materials": [
+            {
+                "name": "1 palo ",
+                "image": "img/palo.png"
+            },
+            {
+                "name": "5 plumas",
+                "image": "img/plumas.png"
+            },
+            {
+                "name": "5 Huesos",
+                "image": "img/hueso.png"
+            }
+        ]
+    }
+    ,
+    {
+        "name": "Flechas venenosas",
+        "category": "Tipos De Flechas",
+        "image": "img/Flechas venenosas.png",
+        "materials": [
+            {
+                "name": "5 Flechas basicas ",
+                "image": "img/Flechas basicas.png"
+            },
+            {
+                "name": "4 Madreselva",
+                "image": "img/madreselva.png"
+            }
+        ]
+    },
+
+    {
+        "name": "Flechas incendiarias",
+        "category": "Tipos De Flechas",
+        "image": "img/Flechas venenosas.png",
+        "materials": [
+            {
+                "name": "5 Flechas basicas ",
+                "image": "img/Flechas basicas.png"
+            },
+            {
+                "name": "1 alcohol",
+                "image": "img/alcohol.png"
+            },
+            {
+                "name": "1 Tela",
+                "image": "img/tela.png"
+            }
+        ]
+    }
+]

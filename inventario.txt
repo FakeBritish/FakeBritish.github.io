@@ -1,0 +1,49 @@
+Armas/Herramientas:
+- Hacha Crafteada: 1 palo, 1 roca, 1 cuerda
+- Tirachinas/Resortera: 1 palo, 1 tela, 1 cinta
+- Garrote fabricado: 1 palo, 1 craneo
+- Arco: 1palo, 1 tela, 1 cuerda
+- Antorcha: 1 palo mejorado, 1 tela
+- Lanza debil: 2 palos
+- Lanza Mejorada: 1 lanza, 2 telas, 3 huesos
+- Lanza Mejorada/Fuego: 1 lanza mejorada, 1 tela,1 alcohol
+- Martillo de Reparación: 2 palos, 1 piedra, 2 telas, 10 savias 
+Bolsas/Expansión de Inventario:
+- Cantimplora: 
+- cantimplora: 2 pieles de ciervo, 1 cuerda''''''''''''''
+- Bolsa de Palos: 1 piel de conejo, 2 cuerdas, 3 telas
+- Bolsa de Piedras: 1 piel de jabalí, 3 cuerdas, 1 tela
+- Bolsa de Piedras Pequeña: 1 piel de conejo, 1 cuerda
+- Carcaj de Flechas: 3 pieles de conejos, 1 cuerda
+- Bolsa de Lanzas: 2 pieles de jabalí, 2 pieles de ciervo, 2 telas, 3 cuerdas
+Flechas:
+- Flechas Básicas: 1 palo, 5 plumas
+- Flechas de Hueso: 1 palo, 5 plumas, 5 huesos
+- Flechas de Veneno: 5 flechas, 4 madreselva
+- Flechas de Fuego: 5 flechas, 1 alcohol, 1 tela
+
+
+
+Proyectiles:
+- Coctel Molotov: 1 alcohol, 1 tela
+- Bomba: 1 placa base, 1 moneda, 1 reloj, 1 alcohol, 1 cinta 
+- Bomba Cabeza: 1 bomba, 1 cabeza
+- Bomba Pegadiza: 1 bomba, 1 savia 
+Armaduras/Ropas:
+- Armadura sigilosa: 1 piel de lagarto, 15 hojas
+- Armadura Hueso: 6 huesos, 3 telas
+- Zapatos de Nieve: 5 palos, 2 cuerdas
+- Zapatos de Piel Conejo: 3 pieles de conejo, 2 cuerdas
+- Traje de Frio: 1 piel de conejo, 1 piel de mapache, 4 pieles de jabalí, 6 pieles de ciervos, 2 telas, 2 cuerdas
+Otros Crafteos:
+- Cuerda: 7 telas 
+- Mezcla Curativa: 1 aloe, 1 caléndula
+- Mezcla Curativa +: 1 aloe, 1 caléndula, 1 equinacea 
+- Mezcla Energética: 1 achicoria, 1 equinacea 
+- Mezcla Energética +: 1 aloe, 1 achicoria, 1 equinacea 
+Mejoras de Armas:
+- Mejora de Velocidad: Arma a mejorar, 1 pluma, 1 savia
+- Mejora de Daño: Arma a mejorar, 1 diente, 1 savia
+- Mejora de Fuego: Arma a mejorar, 1  tela
+- Mejora de Veneno: Arma a mejorar, 1 seta de olivo o amanita
+

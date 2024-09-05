@@ -1,0 +1,273 @@
+/* Estilos Generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    overflow-y: auto; /* Permitir scroll vertical */
+    position: relative;
+}
+
+h1 {
+    color: #f5a623;
+    margin: 1rem 0;
+}
+
+/* Fondo de partículas */
+#particles-js {
+    position: fixed; /* Asegura que se mantenga en toda la pantalla */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Asegura que las partículas estén detrás del contenido */
+}
+
+/* Estilos para el encabezado y el título */
+header {
+    background-color: #2c2c2c; /* Fondo oscuro para el encabezado */
+    padding: 1rem;
+    border-bottom: 1px solid #444; /* Borde inferior oscuro */
+}
+
+header h1 {
+    color: #f5a623; /* Color del título */
+    font-size: 2rem; /* Tamaño del texto del título */
+    margin: 0;
+}
+
+/* Estilos para el contenedor de búsqueda */
+.search-container {
+    margin: 1rem auto;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    max-width: 800px; /* Ajustar el ancho del contenedor */
+}
+
+/* Estilos para las barras de búsqueda */
+.search-container input, .search-container select {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #444; /* Borde oscuro */
+    border-radius: 5px;
+    background-color: #333; /* Fondo oscuro */
+    color: #e0e0e0; /* Color del texto */
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    max-width: 100%;
+}
+
+/* Estilo específico para el input de búsqueda */
+.search-container input {
+    max-width: 300px; /* Tamaño máximo para el input */
+}
+
+/* Estilo específico para el select de categoría */
+.search-container select {
+    max-width: 250px; /* Tamaño máximo para el select */
+}
+
+
+/* apartado de donaciones */
+#caja_donaciones {
+    width: 23rem;
+    height: 5rem;
+    background-color: #2d2d2d;
+    border-radius: 50px 20px;
+    box-shadow: 0.1rem 0.1rem 1rem #000000 ;
+    margin: 0 auto 0 auto;
+    
+}
+
+#Paypal {
+    border-radius: 7px;
+    margin-top: 20px;
+    padding-right: 10px;
+    filter: drop-shadow(0 1px 5px rgba(0, 0, 0, 0.7));
+    float: right;
+    height: 2.4rem; 
+    width: 5.7rem;
+}
+
+
+.txt_donaciones{
+    height: 2.4rem;
+    width: 15rem;
+    padding-top: 1.4rem;
+    margin-left: 1.5rem;
+    color: #ffffff;
+}
+
+#quitar_subrayado {
+    text-decoration: solid;
+}
+
+/* Estilos para los ítems de la lista */
+#crafting-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.item {
+    background: #2d2d2d;
+    border: 1px solid #444;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    width: 300px;
+    box-sizing: border-box;
+    transition: transform 0.3s, box-shadow 0.3s;
+    overflow: hidden;
+    text-align: center;
+    cursor: pointer;
+}
+
+.item img {
+    max-width: 90%;
+    height: auto;
+    border-bottom: 1px solid #444;
+    margin: 1rem auto;
+    display: block;
+    border-radius: 5px;
+}
+
+.item h2 {
+    font-size: 1.5rem;
+    margin: 0.5rem 0;
+    color: #f5a623;
+}
+
+.item p {
+    margin: 0 auto 0.5rem auto;
+    color: #e0e0e0;
+    height: 35px;
+    width: 270px;
+}
+
+.item .category {
+    font-style: italic;
+    color: #bbb;
+}
+
+/* Efecto de hover para los ítems */
+.item:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+/* Contenedor para la imagen y el texto en la esquina superior derecha */
+.top-right-container {
+    margin: 1.3% auto 0 auto;
+    height: 65px;
+    width: 320px;
+    border-radius: 10px;
+    border-width: 0.5px;
+    border-style: solid;
+    border-color: #e0e0e0;
+    top: 1rem;
+    right: 1rem;
+    text-align: center;
+    z-index: 1000;
+    background-color: #2d2d2d;
+}
+
+.top-right-link {
+    display: block;
+}
+
+.top-right-image {
+    margin-top: 7px;
+    width: 75px;
+    height: 20px;
+    border-radius: 5px;
+    transition: opacity 0.3s;
+}
+
+.top-right-image:hover {
+    opacity: 0.8;
+}
+
+.top-right-text {
+    margin-top: 0.1rem;
+    font-size: 1rem;
+    color: #e0e0e0;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+/* Estilos para la caja emergente (modal) */
+#modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    justify-content: center;
+    align-items: center;
+    z-index: 1001;
+    overflow: auto; /* Permite el scroll si el contenido es grande */
+}
+
+.modal-content {
+    background: #2d2d2d;
+    border-radius: 10px;
+    padding: 1rem;
+    position: relative;
+    max-width: 90%;
+    margin: auto;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    max-height: 90vh;
+    overflow-y: auto; /* Scroll vertical si el contenido es alto */
+    transition: all 0.3s ease-in-out;
+}
+
+.modal-content img {
+    width: 100%;
+    height: auto;
+    max-width: 100%; /* Asegura que la imagen se ajuste al contenedor */
+}
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 2rem;
+    color: #e0e0e0;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.close:hover {
+    color: #f5a623;
+}
+
+#modal-images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+#modal-images .material {
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+}
+
+#modal-images .material img {
+    width: 100%;
+    height: auto;
+    max-width: 950px; /* Imagen más grande */
+}
+
+#texto_inferior {
+    padding-top: 7rem;
+}
