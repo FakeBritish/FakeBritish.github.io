@@ -369,7 +369,7 @@
     {
         "name": "Bolsa de piedras",
         "category": "Bolsas/Expansion de mochila",
-        "image": "img/Bolsa de piedras.png",
+        "image": "img/bolsa de piedras.png",
         "materials": [
             {
                 "name": "1 Piel de jabali",
@@ -418,7 +418,7 @@
     {
         "name": "Bolsa de lanzas",
         "category": "Bolsas/Expansion de mochila",
-        "image": "img/Bolsa de lanzas.png",
+        "image": "img/bolsa de lanzas.png",
         "materials": [
             {
                 "name": "2 Pieles de jabali",
