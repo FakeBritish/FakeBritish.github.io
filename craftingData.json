@@ -650,7 +650,7 @@
     {
         "name": "Flechas incendiarias",
         "category": "Tipos De Flechas",
-        "image": "img/Flechas venenosas.png",
+        "image": "img/Flecha incendiaria.png",
         "materials": [
             {
                 "name": "5 Flechas basicas ",
